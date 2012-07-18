@@ -1,0 +1,7 @@
+{
+  "name"          : "shell",
+  "description"   : "An async shell command executor",
+  "author"        : "Jesse Tane <jesse.tane@gmail.com>",
+  "main"          : "shell.js",
+  "version"       : "0.0.1"
+}
