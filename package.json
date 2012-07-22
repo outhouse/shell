@@ -1,6 +1,6 @@
 {
   "name"          : "shell",
-  "description"   : "An async shell command executor",
+  "description"   : "An async shell command executor for nodejs",
   "author"        : "Jesse Tane <jesse.tane@gmail.com>",
   "main"          : "shell.js",
   "version"       : "0.0.1"
