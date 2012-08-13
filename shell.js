@@ -13,4 +13,5 @@ module.exports = function (cmd, cb) {
   });
   proc.stdout.on("data", function (d) { data += d });
   proc.stderr.on("data", function (d) { data += d });
+  return proc
 }
